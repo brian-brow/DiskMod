@@ -1,0 +1,66 @@
+{
+  "cant_tell_me_nothing": {
+    "sounds": [
+      {
+        "name": "diskmod:cant_tell_me_nothing",
+        "stream": true
+      }
+    ]
+  },
+  "heartless": {
+    "sounds": [
+      {
+        "name": "diskmod:heartless",
+        "stream": true
+      }
+    ]
+  },
+  "runaway": {
+    "sounds": [
+      {
+        "name": "diskmod:runaway",
+        "stream": true
+      }
+    ]
+  },
+  "on_sight": {
+    "sounds": [
+      {
+        "name": "diskmod:on_sight",
+        "stream": true
+      }
+    ]
+  },
+  "no_more_parties_in_la": {
+    "sounds": [
+      {
+        "name": "diskmod:no_more_parties_in_la",
+        "stream": true
+      }
+    ]
+  },
+  "ghost_town": {
+    "sounds": [
+      {
+        "name": "diskmod:ghost_town",
+        "stream": true
+      }
+    ]
+  },
+  "god_is": {
+    "sounds": [
+      {
+        "name": "diskmod:god_is",
+        "stream": true
+      }
+    ]
+  },
+  "believe_what_i_say": {
+    "sounds": [
+      {
+        "name": "diskmod:believe_what_i_say",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "itemGroup.diskmod": "Kanye Tab",
+
+  "sounds.diskmod.on_sight": "On Sight",
+
+  "item.diskmod.cant_tell_me_nothing": "Can't Tell Me Nothing",
+  "item.diskmod.cant_tell_me_nothing.desc": "Can't Tell Me Nothing - (Ye)",
+  "item.diskmod.heartless": "Heartless",
+  "item.diskmod.heartless.desc": "Heartless - (Ye)",
+  "item.diskmod.runaway": "Runaway",
+  "item.diskmod.runaway.desc": "Runaway - (Ye)",
+  "item.diskmod.on_sight": "On Sight",
+  "item.diskmod.on_sight.desc": "On Sight - (Ye)",
+  "item.diskmod.no_more_parties_in_la": "No More Parties In LA",
+  "item.diskmod.no_more_parties_in_la.desc": "No More Parties In LA - (Ye)",
+  "item.diskmod.ghost_town": "Ghost Town",
+  "item.diskmod.ghost_town.desc": "Ghost Town - (Ye)",
+  "item.diskmod.god_is": "God Is",
+  "item.diskmod.god_is.desc": "God Is - (Ye)",
+  "item.diskmod.believe_what_i_say": "Believe What I Say",
+  "item.diskmod.believe_what_i_sat.desc": "Believe What I Say - (Ye)"
+}
